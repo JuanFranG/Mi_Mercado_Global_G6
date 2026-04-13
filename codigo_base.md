@@ -1,7 +1,7 @@
 # Mi Mercado Global — Documentación del Proyecto
 
 ## DATOS
-Numero de grupo: 6
+# Numero de grupo: 6
 Integrantes:
 Shania Russo            - 2021114030
 Juan Francisco González - 2021114063
