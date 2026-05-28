@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# CDK
+cdk/cdk.out/
+cdk/.venv/
+
+# Node / Frontend
+mi-mercado-global-front/node_modules/
+mi-mercado-global-front/dist/
+
+# Docs intermedios
+*.md
+.DS_Store
+img-ecommerce/.DS_Store
